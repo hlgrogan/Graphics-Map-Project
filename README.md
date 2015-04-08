@@ -10,4 +10,4 @@ First order of business: set our latitude and longitude boundaries so we're all 
 
 McCallie to E 3rd, Georgia to Palmetto -Erik
 
-It looks like maybe (35.043177 to 35.053066) and (-85.292907 to -85.307074), then? -H
+<a href = "https://www.google.com/maps/d/edit?mid=zy0XpJ1Le-pk.k7x-_ZAgMTwQ">Made a map with some possible coords.</a>  This uses (35.041462 to 35.052715) and (-85.289526 to -85.304204). -H
