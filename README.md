@@ -1,7 +1,7 @@
 # Graphics-Map-Project
 
 ### Resources
-Bike Data
+#####Bike Data
 <p>	Site: https://data.chattlibrary.org/developers/docs/bicycle-parking-locations-in-the-city-of-chattanooga</p>
 <p>	Example JSON generator: http://live-docs.socrata.com/data.chattlibrary.org/bicycle-parking-locations-in-the-city-of-chattanooga</p>
 
