@@ -10,20 +10,23 @@
 #endif
 //just copied the above from in class files -Erik
 
+#include <iostream>
 #include <fstream>
 
+using namespace std;
+
 //globals
-int data_array[7][300];
+string data_array[7][300];
 
 //reads in the csv and loads it into data_array global variable
 void read_file(){
-  ifsteam csv_file ("Bicycle-Parking.csv");
+  ifstream file ("Bicycle-Parking.csv");
   string value;
   int array_x = 0;
   int array_y = 0;
 
-  while(!csv_file.eof()){
-    getline ( csv_file, value, ',' );
+  while(!file.eof()){
+    getline ( file, value, ',' );
     data_array[array_x][array_y] = value;
     array_x++;
     array_x = array_x % 7;
