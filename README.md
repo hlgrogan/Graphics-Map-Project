@@ -17,3 +17,5 @@ Scratch that, coords for a square:
 and
 (-85.289526 to -85.304204)
 -H
+
+I created a main.cpp and added the routine to read the csv into a nice 2D array. -Erik
