@@ -17,7 +17,7 @@ int data_array[7][300];
 
 //reads in the csv
 void read_file(){
-  ifsteam csv_file ("Bicycle-PArking.csv");
+  ifsteam csv_file ("Bicycle-Parking.csv");
   string value;
   int array_x = 0;
   int array_y = 0;
