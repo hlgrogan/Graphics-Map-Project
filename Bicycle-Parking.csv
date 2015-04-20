@@ -1,209 +1,209 @@
-type,properties/name,properties/type,properties/capacity,geometry/type,geometry/coordinates/0,geometry/coordinates/1
-Feature,Miller Plaza,Various,16,Point,-85.30919468934876,35.04608055519845
-Feature,Outdoor Chattanooga,Various,14,Point,-85.30659,35.06143
-Feature,Regions,Wave,3,Point,-85.30473478432684,35.062389956424
-Feature,Stone Cup,Custom,6,Point,-85.30553577411922,35.06182136085342
-Feature,Chatt. Electric Bikes,Wave,3,Point,-85.30690485498297,35.06256675019621
-Feature,Coolidge,Wave,9,Point,-85.30682,35.06176
-Feature,Sluggo's,Inverted U,2,Point,-85.31508,35.06717
-Feature,Greenlife,Wave,15,Point,-85.31461,35.06316
-Feature,Trek Store,Wave,7,Point,-85.31461,35.06234
-Feature,Smart Furniture,Comb,3,Point,-85.31425,35.06272
-Feature,1 North Shore,Inverted U,8,Point,-85.31230983042525,35.06265871044972
-Feature,Walgreens,Comb,3,Point,-85.30847921715505,35.063036925480176
-Feature,Mr. Zip,Comb,5,Point,-85.30568,35.06233
-Feature,McKenzie Arena,Wave,4,Point,-85.30067,35.04992
-Feature,BCBS,Wave,,Point,-85.31805,35.0522
-Feature,Hunter Museum,Pi,4,Point,-85.30576,35.05498
-Feature,The Ice Cream Show,Pi,4,Point,-85.30777,35.05564
-Feature,Riverwalk,Wave,10,Point,-85.25242026671131,35.09749203952791
-Feature,Blue Water,Bike Corral,10,Point,-85.31072,35.05381
-Feature,Big River,Pi,2,Point,-85.31051,35.05384
-Feature,Mellow Mushroom,Wave,5,Point,-85.31105,35.05431
-Feature,Majestic Theater,Pi,6,Point,-85.31102,35.05319
-Feature,Hair of the Dog,Comb,8,Point,-85.30944,35.05254
-Feature,Taco Mac,Wave,4,Point,-85.30987,35.05148
-Feature,Georgia Ave - office,Comb,3,Point,-85.30507,35.05181
-Feature,Courthouse,Comb,4,Point,-85.30662,35.04932
-Feature,Park,Wave,4,Point,-85.30042,35.04372
-Feature,Niedlov's,Pi,4,Point,-85.30468,35.03522
-Feature,green|spaces,Pi,2,Point,-85.30536,35.03553
-Feature,Bluegrass Grill,Pi,2,Point,-85.30588,35.03566
-Feature,Alleia,Pi,2,Point,-85.30677,35.03601
-Feature,Shadowbox,Pi,2,Point,-85.3061,35.0356
-Feature,Crashpad Flying Squirrel,Custom,16,Point,-85.30465860435378,35.03581902667393
-Feature,Terminal,Bike Shelter,8,Point,-85.30684,35.03662
-Feature,Urban Stack,Wave,5,Point,-85.30881,35.03928
-Feature,Development Resource Center,Pi,6,Point,-85.30761879408793,35.04087690941422
-Feature,21 Knots,Pi,2,Point,-85.30746,35.03652
-Feature,Convention Center,Wave,3,Point,-85.31278,35.04337
-Feature,Convention Center,Wave,3,Point,-85.31311,35.04279
-Feature,Coltrane's,Comb,5,Point,-85.31119,35.04595
-Feature,TVA,Inverted U,8,Point,-85.31045,35.04242
-Feature,TVA,Inverted U,10,Point,-85.31116,35.04267
-Feature,TVA,Inverted U,6,Point,-85.30962,35.04281
-Feature,City Hall Annex,Pi,2,Point,-85.30769,35.0432
-Feature,Pickle Barrel,Pi,2,Point,-85.30921943429193,35.04432132845894
-Feature,Chattz Coffee,Pi,2,Point,-85.30924754743354,35.04453
-Feature,Pilgrim's Pride,Comb,6,Point,-85.31188,35.03671
-Feature,Bi-lo/St. Elmo Plaza,Comb,3,Point,-85.32618,35.01015
-Feature,Sports Barn,Inverted U,2,Point,-85.3098,35.05331
-Feature,Gaslight Cafe,Pi,4,Point,-85.30973,35.04932
-Feature,First Tennessee Bank,Comb,6,Point,-85.30969,35.04819
-Feature,Market & 7th,Pi,2,Point,-85.30968,35.04767
-Feature,TVA,Inverted U,10,Point,-85.31042,35.04195
-Feature,Battle Academy,Inverted U,10,Point,-85.30795,35.0359
-Feature,Transit stop,Pi,2,Point,-85.30933,35.05063
-Feature,212 Market,Pi,2,Point,-85.30957,35.05438
-Feature,YMCA,,,Point,-85.31309,35.0499
-Feature,Fletcher Hall Douglas St,Wave,4,Point,-85.30108,35.04648
-Feature,University Center Bookstore,Wave,4,Point,-85.29771,35.04836
-Feature,Holt Hall across UC,Wave,4,Point,-85.29724,35.04779
-Feature,Holt Hall across Grote Hall,Wave,4,Point,-85.29675,35.0476
-Feature,Grote Hall,Wave,4,Point,-85.29742,35.0473
-Feature,Proctor Field,Wave,16,Point,-85.29988,35.05005
-Feature,Guerry Center,Wave,4,Point,-85.29714,35.04547
-Feature,Bretske Hall,Wave,4,Point,-85.29889,35.04602
-Feature,Maclellan Gym Vine St.,Wave,4,Point,-85.29977,35.04786
-Feature,Maclellan Gym Douglas St.,Wave,4,Point,-85.29984,35.0485
-Feature,Lockmiller,Wave,4,Point,-85.29626,35.04487
-Feature,Cardiac Hill,Wave,4,Point,-85.29811,35.04647
-Feature,Administrative Service Bldg,Wave,4,Point,-85.29363,35.04732
-Feature,EMCS Vine St.,Wave,4,Point,-85.29523,35.04614
-Feature,Fine Art Center Vine St.,Wave,4,Point,-85.29557,35.04589
-Feature,Davenport Hall,Wave,4,Point,-85.30209,35.04731
-Feature,Boling Apartments Vine St.,Wave,4,Point,-85.30142,35.04852
-Feature,Johnson Apts. Houston St.,Wave,4,Point,-85.30337,35.04805
-Feature,Lockmiller,Wave,4,Point,-85.29594,35.04476
-Feature,Lockmiller under stairs,,2,Point,-85.29588,35.04444
-Feature,Middle of Lockmiller Apts,Wave,4,Point,-85.2961,35.04453
-Feature,Lockmiller under stairs,,2,Point,-85.29573,35.04458
-Feature,McCallie Ave,Wave,8,Point,-85.3002,35.04525
-Feature,McCallie Ave,Wave,8,Point,-85.29974,35.0452
-Feature,McCallie Ave,Wave,8,Point,-85.29936,35.04502
-Feature,Boling Apartments,Wave,4,Point,-85.30063,35.04864
-Feature,Food Works,Post and Ring,,Point,-85.311975854736,35.06287008151236
-Feature,Suntrust Bank,Post and Ring,,Point,-85.309008927121,35.062724045640195
-Feature,Terra Nostra Frazier Ave,Post and Ring,2,Point,-85.30743980070508,35.06258584089272
-Feature,Panera Bread,Post and Ring,,Point,-85.30977,35.05167
-Feature,Miller Plaza Cherry St,Post and Ring,,Point,-85.30846,35.04612
-Feature,Miller Park Market and 10th,,,Point,-85.30925,35.04511
-Feature,EPB Market St.,Post and Ring,,Point,-85.30957,35.04562
-Feature,Honest Pint - Patten pky,Pi,2,Point,-85.30669,35.04604
-Feature,City Cafe - MLK & Chestnut,Post and Ring,,Point,-85.31198,35.04526
-Feature,Jimmy John's - 10th and Market,Post and Ring,,Point,-85.30956,35.045
-Feature,Pickle Barrel - Market & Georgia,Post and Ring,,Point,-85.30923267954856,35.04423601461893
-Feature,Public House - Market & 12th,Post and Ring,,Point,-85.30855,35.04218
-Feature,1st Tennessee Pavilion - Reggie White Blvd.,Hoop,8,Point,-85.31674,35.03686
-Feature,Aretha Frankenstein's,Hoop,,Point,-85.29875853901875,35.066990736742184
-Feature,1885 Grill,Hoop,,Point,-85.32812,35.0099
-Feature,Urban League - MLK & Peeples,Post and Ring,,Point,-85.29918,35.04219
-Feature,Meeting Place,Post and Ring,,Point,-85.30759,35.03994
-Feature,CVB,Post and Ring,,Point,-85.3094,35.04734
-Feature,United Way,Post and Ring,,Point,-85.30939,35.04853
-Feature,Taziki's/Johnson Group,Post and Ring,,Point,-85.30947,35.05117
-Feature,South Chattanooga Recreation,Wave,8,Point,-85.3229,35.00855
-Feature,Target,Comb,7,Point,-85.15577,35.02462
-Feature,Shuttle Park South,Wave,4,Point,-85.30689,35.03795
-Feature,Regions Broad St,Post and Ring,,Point,-85.30991,35.04915
-Feature,IMAX,Inverted U,2,Point,-85.31199,35.05451
-Feature,Creative Discovery Museum,Inverted U,2,Point,-85.31188,35.05274
-Feature,Cold Stone,Inverted U,2,Point,-85.31277,35.05547
-Feature,Ayrshire Apartments,Post and Ring,2,Point,-85.30521,35.04707
-Feature,TN State Building,Post and Ring,2,Point,-85.30319,35.04639
-Feature,Yellow Deli,Post and Ring,,Point,-85.29712,35.0444
-Feature,Champy's,Post and Ring,,Point,-85.30215,35.04334
-Feature,TN Temple University,Post and Ring,,Point,-85.27735,35.03379
-Feature,Marco's Italian Restaurant,Post and Ring,2,Point,-85.30393217402045,35.06145865824378
-Feature,North Chatt Cat,Post and Ring,,Point,-85.30513750104265,35.06178844361038
-Feature,Boling Apt by Tennis Courts,Wave,4,Point,-85.3012,35.04913
-Feature,Johnson Apts. Vine St.,Wave,4,Point,-85.30278,35.04864
-Feature,Johnson Apts. Lawson Ctr,Wave,4,Point,-85.30225,35.04788
-Feature,Johnson Apt Plaza,Wave,4,Point,-85.30298,35.04831
-Feature,Brock Hall,Wave,4,Point,-85.29807,35.04701
-Feature,Library Entrance,Wave,4,Point,-85.29771,35.04648
-Feature,Behind Fine Arts Bldg.,Wave,4,Point,-85.2961,35.04567
-Feature,Lockmiller Apts under stairs,,2,Point,-85.29631,35.04462
-Feature,Lockmiller Apts under stairs,,2,Point,-85.29595,35.04462
-Feature,Baldwin across Hunter Hall,,1,Point,-85.29859,35.04528
-Feature,Hunter Hall,Wave,4,Point,-85.29873,35.04588
-Feature,UC Plaza,Wave,8,Point,-85.29781,35.04735
-Feature,UC across from Maclellan Gym,Wave,4,Point,-85.29916,35.04797
-Feature,Fletcher Hall East entrance,Wave,8,Point,-85.30063,35.04612
-Feature,Frist Hall,Wave,4,Point,-85.30263,35.04731
-Feature,Frist parking lot,Wave,4,Point,-85.30319,35.0475
-Feature,Hooper Hall,Wave,4,Point,-85.29961,35.04612
-Feature,UTC Place 3000,Wave,4,Point,-85.30093,35.04376
-Feature,UTC Place 300,Wave,5,Point,-85.3004,35.04351
-Feature,UTC Place 3000,Wave,5,Point,-85.30054,35.04371
-Feature,UTC Place 300,Wave,5,Point,-85.30037,35.04398
-Feature,Rembrandts,Post and Ring,,Point,-85.30535,35.05449
-Feature,Norhshore Grille/Leo,Post and Ring,,Point,-85.30787,35.06248
-Feature,Auditorium,Post and Ring,2,Point,-85.30532,35.04745
-Feature,Starbucks,Post and Ring,,Point,-85.31072,35.04607
-Feature,EPB,Post and Ring,,Point,-85.31023,35.04556
-Feature,U.S. Post Office,Post and Ring,2,Point,-85.30866327222965,35.04487745947821
-Feature,Wellness Center,,,Point,-85.30554,35.0433
-Feature,Business Development Center,,,Point,-85.31045936340699,35.063504354192936
-Feature,The Social,Post and Ring,2,Point,-85.30892,35.04244
-Feature,Chattanooga City Courthouse,,,Point,-85.30866,35.05051
-Feature,North Chattanooga Post Office,,,Point,-85.30863,35.06382
-Feature,Chad's Records,Post and Ring,,Point,-85.30397,35.04927
-Feature,Times Free Press,Post and Ring,,Point,-85.30461,35.04198
-Feature,Downtown Fellowship,Post and Ring,,Point,-85.30648,35.04293
-Feature,EPB,Post and Ring,,Point,-85.31023,35.04519
-Feature,The Jefferson,Post and Ring,,Point,-85.3037,35.05076
-Feature,Stroud's Coffee,Post and Ring,2,Point,-85.3098,35.04164
-Feature,Roy H. Nelms Park,Hoop,6,Point,-85.32969089922558,35.00668189666603
-Feature,Rec Center,Comb,5,Point,-85.30301,35.06939
-Feature,Niko's,Wave,3,Point,-85.30922,35.03838
-Feature,Olde Town Brainerd,Hoop,,Point,-85.25481,35.0275
-Feature,Transit Stop,Hoop,,Point,-85.24638,35.02401
-Feature,Sidewalk in front of Dollar General,Hoop,,Point,-85.24516,35.02372
-Feature,UT College of Medicine,Hoop,,Point,-85.29067,35.04773
-Feature,Erlanger Transit Stop,Hoop,,Point,-85.29167,35.04831
-Feature,Pasha Coffee and Tea,Hoop,,Point,-85.3283,35.00997
-Feature,TN Bouldering Authority,Hoop,,Point,-85.32828,35.01091
-Feature,Mojo Burrito,Hoop,,Point,-85.32853,35.01053
-Feature,St Andrews Center/Tn Temple,Hoop,,Point,-85.27683,35.03196
-Feature,St Andrews Center/Tn Temple,Hoop,,Point,-85.27491,35.03197
-Feature,Holder Concessions,Hoop,,Point,-85.27635,35.02592
-Feature,Glenwood Park,Hoop,,Point,-85.26336,35.03787
-Feature,Eastside Elementary,,,Point,-85.27507,35.02381
-Feature,Tremont Tavern,Hoop,,Point,-85.28942347793871,35.069476752586596
-Feature,St Andrews Center/TN Temple,,,Point,-85.27781,35.03298
-Feature,Riverwalk @ The Boathouse,Wave,2,Point,-85.28401,35.05486
-Feature,Community Kitchen,Comb,6,Point,-85.30026,35.04045
-Feature,Lincoln Apartments,,,Point,-85.30538,35.05288
-Feature,Boathouse,Wave,2,Point,-85.2837,35.055
-Feature,40th St. Park,Wave,3,Point,-85.32579606338759,35.00882204673107
-Feature,Cycle Sport Concepts,Custom,5,Point,-85.30072,35.03353
-Feature,1st Presbyterian Student Center,Inverted U,4,Point,-85.30239,35.04635
-Feature,East Lake Academy,Comb,5,Point,-85.28105,35.00271
-Feature,East Lake Rec Center,,,Point,-85.28281,35.00008
-Feature,S. chattanooga Library,Wave,3,Point,-85.32061,35.00854
-Feature,Sticky Fingers,Pi,2,Point,-85.31045,35.0515
-Feature,Ankar's,Inverted U,2,Point,-85.31039,35.05011
-Feature,Riverside Park,Comb,5,Point,-85.26851,35.06904
-Feature,Barking Legs Theater,,,Point,-85.26874,35.02375
-Feature,Countdown Building,Hoop,,Point,-85.25494,35.02732
-Feature,Boccaccia,Wave,3,Point,-85.32055,35.02187
-Feature,Hill City Pizza,Hoop,6,Point,-85.30826619723373,35.06214360581163
-Feature,1 North Shore,Inverted U,8,Point,-85.31230983042525,35.06265871044972
-Feature,Downtown Library,Wave,6,Point,-85.31054593015074,35.044482018355005
-Feature,Main Terrain Park,Bike Shelter,8,Point,-85.31132332566602,35.04010081313865
-Feature,Well Advantage Center,Wave,8,Point,-85.30239860846217,35.04072928811961
-Feature,TVA,Inverted U,10,Point,-85.30931532382965,35.04240689460887
-Feature,Development Resource Center,Pi,2,Point,-85.30812174081802,35.040968503436105
-Feature,Grocery Bar,Bike Corral,8,Point,-85.30848652124405,35.03649285869725
-Feature,Grocery Bar,Hoop,8,Point,-85.30852407217026,35.036145865205
-Feature,City Hall,Inverted U,4,Point,-85.30712127685547,35.043307248715436
-Feature,Center Med Spa,Inverted U,8,Point,-85.30373096466064,35.03422419735524
-Feature,Center Med Spa,Pi,4,Point,-85.30371755361557,35.034663439704865
-Feature,Hart Gallery,Pi,2,Point,-85.30553877353668,35.035381595860926
-Feature,La Altena,Post and Ring,2,Point,-85.3108012676239,35.03737131664762
-Feature,greenspaces,Pi,2,Point,-85.30547976493834,35.03552874022704
-Feature,Big Chill,Post and Ring,2,Point,-85.31030237674713,35.06367455941586
-Feature,Claris Networks,Circle,2,Point,-85.3075236082077,35.041313280421676
-Feature,Southern Star,Post and Ring,2,Point,-85.30988931655884,35.03966843955072
-Feature,Southtree,Post and Ring,2,Point,-85.30918926000595,35.039378557620665
+type,properties/name,properties/type,properties/capacity,geometry/type,geometry/coordinates/0,geometry/coordinates/1,
+Feature,Miller Plaza,Various,16,Point,-85.30919468934876,35.04608055519845,
+Feature,Outdoor Chattanooga,Various,14,Point,-85.30659,35.06143,
+Feature,Regions,Wave,3,Point,-85.30473478432684,35.062389956424,
+Feature,Stone Cup,Custom,6,Point,-85.30553577411922,35.06182136085342,
+Feature,Chatt. Electric Bikes,Wave,3,Point,-85.30690485498297,35.06256675019621,
+Feature,Coolidge,Wave,9,Point,-85.30682,35.06176,
+Feature,Sluggo's,Inverted U,2,Point,-85.31508,35.06717,
+Feature,Greenlife,Wave,15,Point,-85.31461,35.06316,
+Feature,Trek Store,Wave,7,Point,-85.31461,35.06234,
+Feature,Smart Furniture,Comb,3,Point,-85.31425,35.06272,
+Feature,1 North Shore,Inverted U,8,Point,-85.31230983042525,35.06265871044972,
+Feature,Walgreens,Comb,3,Point,-85.30847921715505,35.063036925480176,
+Feature,Mr. Zip,Comb,5,Point,-85.30568,35.06233,
+Feature,McKenzie Arena,Wave,4,Point,-85.30067,35.04992,
+Feature,BCBS,Wave,0,Point,-85.31805,35.0522,
+Feature,Hunter Museum,Pi,4,Point,-85.30576,35.05498,
+Feature,The Ice Cream Show,Pi,4,Point,-85.30777,35.05564,
+Feature,Riverwalk,Wave,10,Point,-85.25242026671131,35.09749203952791,
+Feature,Blue Water,Bike Corral,10,Point,-85.31072,35.05381,
+Feature,Big River,Pi,2,Point,-85.31051,35.05384,
+Feature,Mellow Mushroom,Wave,5,Point,-85.31105,35.05431,
+Feature,Majestic Theater,Pi,6,Point,-85.31102,35.05319,
+Feature,Hair of the Dog,Comb,8,Point,-85.30944,35.05254,
+Feature,Taco Mac,Wave,4,Point,-85.30987,35.05148,
+Feature,Georgia Ave - office,Comb,3,Point,-85.30507,35.05181,
+Feature,Courthouse,Comb,4,Point,-85.30662,35.04932,
+Feature,Park,Wave,4,Point,-85.30042,35.04372,
+Feature,Niedlov's,Pi,4,Point,-85.30468,35.03522,
+Feature,green|spaces,Pi,2,Point,-85.30536,35.03553,
+Feature,Bluegrass Grill,Pi,2,Point,-85.30588,35.03566,
+Feature,Alleia,Pi,2,Point,-85.30677,35.03601,
+Feature,Shadowbox,Pi,2,Point,-85.3061,35.0356,
+Feature,Crashpad Flying Squirrel,Custom,16,Point,-85.30465860435378,35.03581902667393,
+Feature,Terminal,Bike Shelter,8,Point,-85.30684,35.03662,
+Feature,Urban Stack,Wave,5,Point,-85.30881,35.03928,
+Feature,Development Resource Center,Pi,6,Point,-85.30761879408793,35.04087690941422,
+Feature,21 Knots,Pi,2,Point,-85.30746,35.03652,
+Feature,Convention Center,Wave,3,Point,-85.31278,35.04337,
+Feature,Convention Center,Wave,3,Point,-85.31311,35.04279,
+Feature,Coltrane's,Comb,5,Point,-85.31119,35.04595,
+Feature,TVA,Inverted U,8,Point,-85.31045,35.04242,
+Feature,TVA,Inverted U,10,Point,-85.31116,35.04267,
+Feature,TVA,Inverted U,6,Point,-85.30962,35.04281,
+Feature,City Hall Annex,Pi,2,Point,-85.30769,35.0432,
+Feature,Pickle Barrel,Pi,2,Point,-85.30921943429193,35.04432132845894,
+Feature,Chattz Coffee,Pi,2,Point,-85.30924754743354,35.04453,
+Feature,Pilgrim's Pride,Comb,6,Point,-85.31188,35.03671,
+Feature,Bi-lo/St. Elmo Plaza,Comb,3,Point,-85.32618,35.01015,
+Feature,Sports Barn,Inverted U,2,Point,-85.3098,35.05331,
+Feature,Gaslight Cafe,Pi,4,Point,-85.30973,35.04932,
+Feature,First Tennessee Bank,Comb,6,Point,-85.30969,35.04819,
+Feature,Market & 7th,Pi,2,Point,-85.30968,35.04767,
+Feature,TVA,Inverted U,10,Point,-85.31042,35.04195,
+Feature,Battle Academy,Inverted U,10,Point,-85.30795,35.0359,
+Feature,Transit stop,Pi,2,Point,-85.30933,35.05063,
+Feature,212 Market,Pi,2,Point,-85.30957,35.05438,
+Feature,YMCA,0,,Point,-85.31309,35.0499,
+Feature,Fletcher Hall Douglas St,Wave,4,Point,-85.30108,35.04648,
+Feature,University Center Bookstore,Wave,4,Point,-85.29771,35.04836,
+Feature,Holt Hall across UC,Wave,4,Point,-85.29724,35.04779,
+Feature,Holt Hall across Grote Hall,Wave,4,Point,-85.29675,35.0476,
+Feature,Grote Hall,Wave,4,Point,-85.29742,35.0473,
+Feature,Proctor Field,Wave,16,Point,-85.29988,35.05005,
+Feature,Guerry Center,Wave,4,Point,-85.29714,35.04547,
+Feature,Bretske Hall,Wave,4,Point,-85.29889,35.04602,
+Feature,Maclellan Gym Vine St.,Wave,4,Point,-85.29977,35.04786,
+Feature,Maclellan Gym Douglas St.,Wave,4,Point,-85.29984,35.0485,
+Feature,Lockmiller,Wave,4,Point,-85.29626,35.04487,
+Feature,Cardiac Hill,Wave,4,Point,-85.29811,35.04647,
+Feature,Administrative Service Bldg,Wave,4,Point,-85.29363,35.04732,
+Feature,EMCS Vine St.,Wave,4,Point,-85.29523,35.04614,
+Feature,Fine Art Center Vine St.,Wave,4,Point,-85.29557,35.04589,
+Feature,Davenport Hall,Wave,4,Point,-85.30209,35.04731,
+Feature,Boling Apartments Vine St.,Wave,4,Point,-85.30142,35.04852,
+Feature,Johnson Apts. Houston St.,Wave,4,Point,-85.30337,35.04805,
+Feature,Lockmiller,Wave,4,Point,-85.29594,35.04476,
+Feature,Lockmiller under stairs,0,2,Point,-85.29588,35.04444,
+Feature,Middle of Lockmiller Apts,Wave,4,Point,-85.2961,35.04453,
+Feature,Lockmiller under stairs,0,2,Point,-85.29573,35.04458,
+Feature,McCallie Ave,Wave,8,Point,-85.3002,35.04525,
+Feature,McCallie Ave,Wave,8,Point,-85.29974,35.0452,
+Feature,McCallie Ave,Wave,8,Point,-85.29936,35.04502,
+Feature,Boling Apartments,Wave,4,Point,-85.30063,35.04864,
+Feature,Food Works,Post and Ring,0,Point,-85.311975854736,35.06287008151236,
+Feature,Suntrust Bank,Post and Ring,0,Point,-85.309008927121,35.062724045640195,
+Feature,Terra Nostra Frazier Ave,Post and Ring,2,Point,-85.30743980070508,35.06258584089272,
+Feature,Panera Bread,Post and Ring,0,Point,-85.30977,35.05167,
+Feature,Miller Plaza Cherry St,Post and Ring,0,Point,-85.30846,35.04612,
+Feature,Miller Park Market and 10th,0,,Point,-85.30925,35.04511,
+Feature,EPB Market St.,Post and Ring,0,Point,-85.30957,35.04562,
+Feature,Honest Pint - Patten pky,Pi,2,Point,-85.30669,35.04604,
+Feature,City Cafe - MLK & Chestnut,Post and Ring,0,Point,-85.31198,35.04526,
+Feature,Jimmy John's - 10th and Market,Post and Ring,0,Point,-85.30956,35.045,
+Feature,Pickle Barrel - Market & Georgia,Post and Ring,0,Point,-85.30923267954856,35.04423601461893,
+Feature,Public House - Market & 12th,Post and Ring,0,Point,-85.30855,35.04218,
+Feature,1st Tennessee Pavilion - Reggie White Blvd.,Hoop,8,Point,-85.31674,35.03686,
+Feature,Aretha Frankenstein's,Hoop,0,Point,-85.29875853901875,35.066990736742184,
+Feature,1885 Grill,Hoop,0,Point,-85.32812,35.0099,
+Feature,Urban League - MLK & Peeples,Post and Ring,0,Point,-85.29918,35.04219,
+Feature,Meeting Place,Post and Ring,0,Point,-85.30759,35.03994,
+Feature,CVB,Post and Ring,0,Point,-85.3094,35.04734,
+Feature,United Way,Post and Ring,0,Point,-85.30939,35.04853,
+Feature,Taziki's/Johnson Group,Post and Ring,0,Point,-85.30947,35.05117,
+Feature,South Chattanooga Recreation,Wave,8,Point,-85.3229,35.00855,
+Feature,Target,Comb,7,Point,-85.15577,35.02462,
+Feature,Shuttle Park South,Wave,4,Point,-85.30689,35.03795,
+Feature,Regions Broad St,Post and Ring,0,Point,-85.30991,35.04915,
+Feature,IMAX,Inverted U,2,Point,-85.31199,35.05451,
+Feature,Creative Discovery Museum,Inverted U,2,Point,-85.31188,35.05274,
+Feature,Cold Stone,Inverted U,2,Point,-85.31277,35.05547,
+Feature,Ayrshire Apartments,Post and Ring,2,Point,-85.30521,35.04707,
+Feature,TN State Building,Post and Ring,2,Point,-85.30319,35.04639,
+Feature,Yellow Deli,Post and Ring,0,Point,-85.29712,35.0444,
+Feature,Champy's,Post and Ring,0,Point,-85.30215,35.04334,
+Feature,TN Temple University,Post and Ring,0,Point,-85.27735,35.03379,
+Feature,Marco's Italian Restaurant,Post and Ring,2,Point,-85.30393217402045,35.06145865824378,
+Feature,North Chatt Cat,Post and Ring,0,Point,-85.30513750104265,35.06178844361038,
+Feature,Boling Apt by Tennis Courts,Wave,4,Point,-85.3012,35.04913,
+Feature,Johnson Apts. Vine St.,Wave,4,Point,-85.30278,35.04864,
+Feature,Johnson Apts. Lawson Ctr,Wave,4,Point,-85.30225,35.04788,
+Feature,Johnson Apt Plaza,Wave,4,Point,-85.30298,35.04831,
+Feature,Brock Hall,Wave,4,Point,-85.29807,35.04701,
+Feature,Library Entrance,Wave,4,Point,-85.29771,35.04648,
+Feature,Behind Fine Arts Bldg.,Wave,4,Point,-85.2961,35.04567,
+Feature,Lockmiller Apts under stairs,0,2,Point,-85.29631,35.04462,
+Feature,Lockmiller Apts under stairs,0,2,Point,-85.29595,35.04462,
+Feature,Baldwin across Hunter Hall,0,1,Point,-85.29859,35.04528,
+Feature,Hunter Hall,Wave,4,Point,-85.29873,35.04588,
+Feature,UC Plaza,Wave,8,Point,-85.29781,35.04735,
+Feature,UC across from Maclellan Gym,Wave,4,Point,-85.29916,35.04797,
+Feature,Fletcher Hall East entrance,Wave,8,Point,-85.30063,35.04612,
+Feature,Frist Hall,Wave,4,Point,-85.30263,35.04731,
+Feature,Frist parking lot,Wave,4,Point,-85.30319,35.0475,
+Feature,Hooper Hall,Wave,4,Point,-85.29961,35.04612,
+Feature,UTC Place 3000,Wave,4,Point,-85.30093,35.04376,
+Feature,UTC Place 300,Wave,5,Point,-85.3004,35.04351,
+Feature,UTC Place 3000,Wave,5,Point,-85.30054,35.04371,
+Feature,UTC Place 300,Wave,5,Point,-85.30037,35.04398,
+Feature,Rembrandts,Post and Ring,0,Point,-85.30535,35.05449,
+Feature,Norhshore Grille/Leo,Post and Ring,0,Point,-85.30787,35.06248,
+Feature,Auditorium,Post and Ring,2,Point,-85.30532,35.04745,
+Feature,Starbucks,Post and Ring,0,Point,-85.31072,35.04607,
+Feature,EPB,Post and Ring,0,Point,-85.31023,35.04556,
+Feature,U.S. Post Office,Post and Ring,2,Point,-85.30866327222965,35.04487745947821,
+Feature,Wellness Center,0,,Point,-85.30554,35.0433,
+Feature,Business Development Center,0,,Point,-85.31045936340699,35.063504354192936,
+Feature,The Social,Post and Ring,2,Point,-85.30892,35.04244,
+Feature,Chattanooga City Courthouse,0,,Point,-85.30866,35.05051,
+Feature,North Chattanooga Post Office,0,,Point,-85.30863,35.06382,
+Feature,Chad's Records,Post and Ring,0,Point,-85.30397,35.04927,
+Feature,Times Free Press,Post and Ring,0,Point,-85.30461,35.04198,
+Feature,Downtown Fellowship,Post and Ring,0,Point,-85.30648,35.04293,
+Feature,EPB,Post and Ring,0,Point,-85.31023,35.04519,
+Feature,The Jefferson,Post and Ring,0,Point,-85.3037,35.05076,
+Feature,Stroud's Coffee,Post and Ring,2,Point,-85.3098,35.04164,
+Feature,Roy H. Nelms Park,Hoop,6,Point,-85.32969089922558,35.00668189666603,
+Feature,Rec Center,Comb,5,Point,-85.30301,35.06939,
+Feature,Niko's,Wave,3,Point,-85.30922,35.03838,
+Feature,Olde Town Brainerd,Hoop,0,Point,-85.25481,35.0275,
+Feature,Transit Stop,Hoop,0,Point,-85.24638,35.02401,
+Feature,Sidewalk in front of Dollar General,Hoop,0,Point,-85.24516,35.02372,
+Feature,UT College of Medicine,Hoop,0,Point,-85.29067,35.04773,
+Feature,Erlanger Transit Stop,Hoop,0,Point,-85.29167,35.04831,
+Feature,Pasha Coffee and Tea,Hoop,0,Point,-85.3283,35.00997,
+Feature,TN Bouldering Authority,Hoop,0,Point,-85.32828,35.01091,
+Feature,Mojo Burrito,Hoop,0,Point,-85.32853,35.01053,
+Feature,St Andrews Center/Tn Temple,Hoop,0,Point,-85.27683,35.03196,
+Feature,St Andrews Center/Tn Temple,Hoop,0,Point,-85.27491,35.03197,
+Feature,Holder Concessions,Hoop,0,Point,-85.27635,35.02592,
+Feature,Glenwood Park,Hoop,0,Point,-85.26336,35.03787,
+Feature,Eastside Elementary,0,,Point,-85.27507,35.02381,
+Feature,Tremont Tavern,Hoop,0,Point,-85.28942347793871,35.069476752586596,
+Feature,St Andrews Center/TN Temple,0,,Point,-85.27781,35.03298,
+Feature,Riverwalk @ The Boathouse,Wave,2,Point,-85.28401,35.05486,
+Feature,Community Kitchen,Comb,6,Point,-85.30026,35.04045,
+Feature,Lincoln Apartments,0,,Point,-85.30538,35.05288,
+Feature,Boathouse,Wave,2,Point,-85.2837,35.055,
+Feature,40th St. Park,Wave,3,Point,-85.32579606338759,35.00882204673107,
+Feature,Cycle Sport Concepts,Custom,5,Point,-85.30072,35.03353,
+Feature,1st Presbyterian Student Center,Inverted U,4,Point,-85.30239,35.04635,
+Feature,East Lake Academy,Comb,5,Point,-85.28105,35.00271,
+Feature,East Lake Rec Center,0,,Point,-85.28281,35.00008,
+Feature,S. chattanooga Library,Wave,3,Point,-85.32061,35.00854,
+Feature,Sticky Fingers,Pi,2,Point,-85.31045,35.0515,
+Feature,Ankar's,Inverted U,2,Point,-85.31039,35.05011,
+Feature,Riverside Park,Comb,5,Point,-85.26851,35.06904,
+Feature,Barking Legs Theater,0,,Point,-85.26874,35.02375,
+Feature,Countdown Building,Hoop,0,Point,-85.25494,35.02732,
+Feature,Boccaccia,Wave,3,Point,-85.32055,35.02187,
+Feature,Hill City Pizza,Hoop,6,Point,-85.30826619723373,35.06214360581163,
+Feature,1 North Shore,Inverted U,8,Point,-85.31230983042525,35.06265871044972,
+Feature,Downtown Library,Wave,6,Point,-85.31054593015074,35.044482018355005,
+Feature,Main Terrain Park,Bike Shelter,8,Point,-85.31132332566602,35.04010081313865,
+Feature,Well Advantage Center,Wave,8,Point,-85.30239860846217,35.04072928811961,
+Feature,TVA,Inverted U,10,Point,-85.30931532382965,35.04240689460887,
+Feature,Development Resource Center,Pi,2,Point,-85.30812174081802,35.040968503436105,
+Feature,Grocery Bar,Bike Corral,8,Point,-85.30848652124405,35.03649285869725,
+Feature,Grocery Bar,Hoop,8,Point,-85.30852407217026,35.036145865205,
+Feature,City Hall,Inverted U,4,Point,-85.30712127685547,35.043307248715436,
+Feature,Center Med Spa,Inverted U,8,Point,-85.30373096466064,35.03422419735524,
+Feature,Center Med Spa,Pi,4,Point,-85.30371755361557,35.034663439704865,
+Feature,Hart Gallery,Pi,2,Point,-85.30553877353668,35.035381595860926,
+Feature,La Altena,Post and Ring,2,Point,-85.3108012676239,35.03737131664762,
+Feature,greenspaces,Pi,2,Point,-85.30547976493834,35.03552874022704,
+Feature,Big Chill,Post and Ring,2,Point,-85.31030237674713,35.06367455941586,
+Feature,Claris Networks,Circle,2,Point,-85.3075236082077,35.041313280421676,
+Feature,Southern Star,Post and Ring,2,Point,-85.30988931655884,35.03966843955072,
+Feature,Southtree,Post and Ring,2,Point,-85.30918926000595,35.039378557620665,
