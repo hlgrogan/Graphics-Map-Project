@@ -15,7 +15,7 @@
 //globals
 int data_array[7][300];
 
-//reads in the csv
+//reads in the csv and loads it into data_array global variable
 void read_file(){
   ifsteam csv_file ("Bicycle-Parking.csv");
   string value;
@@ -31,6 +31,65 @@ void read_file(){
   }
 }
 
+void setup(void) 
+{
+   glClearColor(1.0, 1.0, 1.0, 0.0); 
+}
+
+void drawScene(void)
+{
+   glClear(GL_COLOR_BUFFER_BIT);
+   glColor3f(0.0, 0.0, 0.0);
+
+
+
+   glFlush(); 
+}
+
+// OpenGL window reshape routine.
+void resize(int w, int h)
+{
+   glViewport(0, 0, w, h);
+   glMatrixMode(GL_PROJECTION);
+   glLoadIdentity();
+   glOrtho(0.0, 100.0, 0.0, 100.0, -1.0, 1.0);
+   glMatrixMode(GL_MODELVIEW);
+   glLoadIdentity();
+}
+
+// Keyboard input processing routine.
+void keyInput(unsigned char key, int x, int y)
+{
+   switch(key) 
+   {
+      case 27:
+         exit(0);
+         break;
+      default:
+         break;
+   }
+}
+
 int main(int argc, char **argv){
   read_file();
+
+glutInit(&argc, argv);
+
+   glutInitContextVersion(2, 1);
+   glutInitContextProfile(GLUT_COMPATIBILITY_PROFILE);
+
+   glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA); 
+   glutInitWindowSize(500, 500);
+   glutInitWindowPosition(100, 100); 
+   glutCreateWindow("Chattanooga Bike Parking");
+   glutDisplayFunc(drawScene); 
+   glutReshapeFunc(resize);  
+   glutKeyboardFunc(keyInput);
+
+   glewExperimental = GL_TRUE;
+   glewInit();
+
+   setup(); 
+   
+   glutMainLoop(); 
 }
