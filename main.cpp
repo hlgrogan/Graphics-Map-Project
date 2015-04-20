@@ -17,6 +17,11 @@ using namespace std;
 
 //globals
 string data_array[7][300];
+float top, bottom, right, left;
+top    =  35.056140;
+bottom =  35.041462;
+right  = -85.289526;
+left   = -85.304204;
 
 //reads in the csv and loads it into data_array global variable
 void read_file(){
@@ -44,7 +49,9 @@ void drawScene(void)
    glClear(GL_COLOR_BUFFER_BIT);
    glColor3f(0.0, 0.0, 0.0);
 
+//This is where we draw a big map
 
+//This is where we add little icons to the map
 
    glFlush(); 
 }
