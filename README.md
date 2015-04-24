@@ -19,3 +19,5 @@ and
 -H
 
 I created a main.cpp and added the routine to read the csv into a nice 2D array. -Erik
+
+Added CSV loader and got it actually drawing some things.  Are we doing anything fancy to the graphics by tomorrow?  I've got some free time to deal with it if anybody has any ideas. -H
