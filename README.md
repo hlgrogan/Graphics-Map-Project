@@ -23,3 +23,5 @@ I created a main.cpp and added the routine to read the csv into a nice 2D array.
 Added CSV loader and got it actually drawing some things.  Are we doing anything fancy to the graphics by tomorrow?  I've got some free time to deal with it if anybody has any ideas. -H
 
 I deleted my main.cpp. Also, are we doing a key somehow? Maybe just a readme for tannis? -Erik
+
+Added a key, almost done with mouseover text.  Have it uploaded in an hour or less. -H
